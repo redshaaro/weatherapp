@@ -1,0 +1,32 @@
+.outputContainer {
+    margin-top: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.outputContainerLeft {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+
+}
+.outputContainerLeftparagraph{
+    margin-bottom: 1rem;
+    
+}
+.outputContainerLeftheader1{
+    font-size: 5rem;
+
+}
+
+.outputContainerRight {
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    transform: rotate(-91deg);
+    -webkit-transform: rotate(-91deg);
+    -moz-transform: rotate(-91deg);
+    -ms-transform: rotate(-91deg);
+    -o-transform: rotate(-91deg);
+}

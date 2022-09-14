@@ -1,0 +1,8 @@
+/* Customizing Home */
+.background{
+    background-image: url("../../assets/sunset.jpg");
+    background-size: cover;
+    background-position: top;
+    height: 100vh;
+     
+}
